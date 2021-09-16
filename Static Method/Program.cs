@@ -16,13 +16,9 @@ namespace Static_Method
         {
 
             string username = "carl";
-            string role = "admin";
+            string role = "admin";           
 
-            {
-
-                Console.WriteLine($"User name is: {username} \nUser role is: {role}");
-            }
-
+                Console.WriteLine($"User name is: {username} \nUser role is: {role}");          
 
         }
     }
